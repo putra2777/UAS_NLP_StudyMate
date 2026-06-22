@@ -1,0 +1,12 @@
+flowchart TD
+    A([START]) --> B[Validate Input]
+    B -->|Valid| C[Analyze Material]
+    B -->|Invalid| X[Handle Error]
+    C --> D[Generate Summary]
+    D --> E[Generate Quiz]
+    E --> F[Quality Review]
+    F -->|Score < Threshold| G[Revise Output]
+    G --> F
+    F -->|Score >= Threshold or max revision| H[Finalize]
+    X --> I([END])
+    H --> I

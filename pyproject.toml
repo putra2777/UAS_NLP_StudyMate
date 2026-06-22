@@ -1,0 +1,10 @@
+[project]
+name = "uas-nlp-studymate"
+version = "1.0.0"
+description = "Asisten belajar adaptif berbasis LangChain, LangGraph, dan LangSmith"
+requires-python = ">=3.10"
+readme = "README.md"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

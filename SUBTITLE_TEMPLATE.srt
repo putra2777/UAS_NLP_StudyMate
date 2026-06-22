@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:08,000
+Halo, pada video ini saya akan mempresentasikan proyek UAS Natural Language Processing.
+
+2
+00:00:08,000 --> 00:00:17,000
+Judul proyek saya adalah NLP StudyMate, yaitu asisten belajar adaptif berbasis LLM.
+
+3
+00:00:17,000 --> 00:00:27,000
+Proyek ini menggunakan tiga library wajib, yaitu LangChain, LangGraph, dan LangSmith.
+
+4
+00:00:27,000 --> 00:00:38,000
+Pada bagian pertama saya akan membahas teori, lalu dilanjutkan dengan penjelasan source code dan demo aplikasi.
+
+5
+00:00:38,000 --> 00:00:48,000
+Silakan lanjutkan subtitle berdasarkan rekaman final dan sesuaikan seluruh timecode.
